@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://amiraasker110-eng.github.io/sitemap.xml

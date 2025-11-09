@@ -1,0 +1,192 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "8f7e896c1441da006421295244008614"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/myr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/myr/index.html",
+        "type": "file",
+        "md5": "160ffb929bf9a0d48046ad2ce06ab61c"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "ff1e29c63d36281c2c06f471b312db47"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "a4b62ca531488b3c4058e41e56dcdd0c"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "31caa36f1b133bad0064378aebb1fd6b"
+    },
+    {
+        "path": "learn-quran-a-complete-guide-to-building-a-strong-connection-with-the-holy-quran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-a-complete-guide-to-building-a-strong-connection-with-the-holy-quran/index.html",
+        "type": "file",
+        "md5": "a1138296126a7ce8189f70b2667bf43b"
+    },
+    {
+        "path": "learn-quran-a-lifelong-journey-toward-faith-understanding-and-enlightenment",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-a-lifelong-journey-toward-faith-understanding-and-enlightenment/index.html",
+        "type": "file",
+        "md5": "ac52e525614e1f6349b92d204742192b"
+    },
+    {
+        "path": "learn-quran-your-guide-to-mastering-quranic-knowledge-step-by-step",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-your-guide-to-mastering-quranic-knowledge-step-by-step/index.html",
+        "type": "file",
+        "md5": "a8c237e0fcc7942199e32e1dc7066c6b"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/download-28.jfif",
+        "type": "file",
+        "md5": "04f3026d55057caef8ed31aeb5a21c2e"
+    },
+    {
+        "path": "quran-reading-classes-online-a-modern-path-to-learning-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-reading-classes-online-a-modern-path-to-learning-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "1b90644f98dbe892bf0f478babe4f0f0"
+    },
+    {
+        "path": "quran-reading-classes-online-your-gateway-to-mastering-the-book-of-allah-with-ease",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/quran-reading-classes-online-your-gateway-to-mastering-the-book-of-allah-with-ease/index.html",
+        "type": "file",
+        "md5": "2bc2ed35be3033bda4c6ae207d47950a"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "a75f1ee61b015031c0f81274c1711866"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "0a8c7d03d2c2b27f7563eb9079b89ac3"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "24e46b86434f9de612e644c529e6549d"
+    }
+]
